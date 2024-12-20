@@ -4,10 +4,15 @@ Bonjour, je m'appelle ASSIATOU DRAME , étudiante en première année de Bachelo
 Je suis passionnée par le développement web et logiciel, toujours curieuse d'apprendre de nouvelles technologies et de relever des défis techniques.
 
 🚀 À propos de moi :
+
 🎓 Formation : Étudiante en développement FullStack 
+
 💻 Compétences principales :
+
 Développement web : HTML, CSS, JavaScript, PHP
+
 Base de données: SQL
+
 Programmation: C, python
 
 
