@@ -13,7 +13,7 @@ Développement web : HTML, CSS, JavaScript, PHP
 
 Base de données: SQL
 
-Programmation: C, python
+Programmation: C, python,java
 
 
 <!--
